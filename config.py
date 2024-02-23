@@ -1,0 +1,1 @@
+URL_DATABASE = "mysql+pymysql://root:Mahita%401234@localhost:3306/email_content_generation"
